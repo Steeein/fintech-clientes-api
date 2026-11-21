@@ -2,10 +2,10 @@
 
 Servicio backend RESTful desarrollado para el Sprint 1 de la plataforma **Fintech Solutions S.A.**
 
-## Integrantes
+## Autores
 
-- Diego Abaroa
-- Claudio Ramos
+- **Diego Abaroa** — [@Steeein](https://github.com/Steeein)
+- **Claudio Ramos**
 
 ## Especificaciones Técnicas
 
@@ -59,4 +59,4 @@ docker compose exec app php artisan migrate
 
 ## Pruebas de Integración
 
-Se incluye el archivo `EVA2_ABAROA.postman_collection.json` en la raíz del proyecto. Este recurso contiene los casos de prueba para flujos exitosos y manejo de excepciones de validación.
+Se incluye el archivo `postman_collection.json` en la raíz del proyecto. Este recurso contiene los casos de prueba para flujos exitosos y manejo de excepciones de validación.
