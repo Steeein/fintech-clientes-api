@@ -2,10 +2,9 @@
 
 Servicio backend RESTful desarrollado para el Sprint 1 de la plataforma **Fintech Solutions S.A.**
 
-## Autores
+## Autor
 
-- **Diego Abaroa** — [@Steeein](https://github.com/Steeein)
-- **Claudio Ramos**
+**Diego Abaroa** — [@Steeein](https://github.com/Steeein)
 
 ## Especificaciones Técnicas
 
